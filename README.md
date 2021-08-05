@@ -16,13 +16,6 @@ People can try also-:
 3. Create widget dynamically according to restfull api.
 4. Local database connection ex. sqlite.
 
-Usefull playlist link for flutter app developemnt I covered in my YT Channle :wink: (Dev Stack Youtube Channle)-:
-| Playlist Name                                             |     | YouTube Playlist Link                                                                       |
-| --------------------------------------------------------- | --- | ------------------------------------------------------------------------------------------- |
-| Blog App Development (Front-End & Back-End)                      |     | [Link](https://youtube.com/playlist?list=PLtIU0BH0pkKoE2PBvgbHEBPAP-sd670VI)                |
-| Flutter model class series, for Rest API connection and JSON parsing |     | [Link](https://www.youtube.com/playlist?list=PLtIU0BH0pkKpXE-1vC7NswofFPby1OYh-) |
-| Flutter Basic series                                                 |     | [link](https://www.youtube.com/playlist?list=PLtIU0BH0pkKrk8C7KToFeRSVTi2CLpFTG) |
-
 
 ### This app have following things -:
 
@@ -50,7 +43,7 @@ Usefull playlist link for flutter app developemnt I covered in my YT Channle :wi
 
 1. Clone this app using below syntax -:
 
-   > git clone https://github.com/balram0608/food-delivery-flutter.git
+   > git clone https://github.com/SobhieSaad/food_delivery_app.git
 
 2. After cloning install packages using below syntax -:
    > flutter pub get
